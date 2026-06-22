@@ -26,7 +26,7 @@ How to Run Locally
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/wallcal.git
+git clone https://github.com/tanishqa10mali/wallcal.git
 cd wallcal
 
 Install dependencies:
